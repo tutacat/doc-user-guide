@@ -24,6 +24,8 @@ If it says **amd64** you can upgrade to Linux Mint 20.
 
 If it says **i386**, it means you're using the 32-bit version. In this case you cannot upgrade and you need to stick with Linux Mint 19.3.
 
+Note: you can still use "Linux Mint", even if you have a 32-bit processor, by either installing, or doing and in-place install (keep old files), of `LMDE (Linux Mint Debian Edition) <https://linuxmint.com/download_lmde.php>`_, as Debian (which it is built on) will continue to support i386.
+
 Experience with APT
 -------------------
 
